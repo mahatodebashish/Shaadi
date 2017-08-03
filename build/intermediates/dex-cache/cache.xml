@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\okio-1.2.0_8bbdc683278241d38807b4ea7535a577b440159c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.1.1\ab1142c5adfa474e7494cba19fd9fc6e73207960\stetho-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab1142c5adfa474e7494cba19fd9fc6e73207960">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\stetho-1.1.1_ee01200e33826052e16792611af35aaad66899c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_65bb9f9d6a001f4ff7d67fbf8a612b2e0e35875b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_1f3075b9e8b08145fecf6291e5bbd45eaa363ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_caec9a9efa7db0ceda2f7a1b7421a4a66f8ce540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\glide-3.7.0_eccdecebf9aeef6faf5cb21599e83ea81582bd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_433f010c0bf23836d81358c69195c80fbb8eee52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_a79ede6df673aeaa7289e9f87ac44bf7d820937c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_2bb385088d587851c6944ba0db6206f0faf1fbdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.1.1\1732524bc9a7c660032c73133ce27749a64ba456\stetho-okhttp-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1732524bc9a7c660032c73133ce27749a64ba456">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\stetho-okhttp-1.1.1_8d30f0336299ead1f1616facf870c6a785ace899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_a680192655691b905b2da558988294735ddef7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.0_e443557184c3410e42c9c15e484a1c04ed809f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0_5ba95a7b6d1657244d4a3d927a389b12c87b0e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_53805f61fff2545b2511dd925adc3108ef733f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_ba3f92ffa9e9830263219e289dbc6398f0622fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_93ad9adec7c22a283844d0c647763ce581c61da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_6dd77e09e5e2db96f246677ea1de3b668f1bdc6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_8821a6cf91c93639a5b4386bcf1f5c2d510ae5a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_b4fad540c174170bd008c8af43099103192d980a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_902eaa1e4b08973962e86542c395a5c0482284d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.firebase\firebase-jobdispatcher\0.5.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a424dda1dfed15a9ca112aa128107b948e30e82">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.firebase-firebase-jobdispatcher-0.5.2_600029d4d8cd412243f018e67c6da5ba75f7bf48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.0_7e213437723a171c465c05acb5c270b076e6c476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_5b2ce210c41ee7da23d8f1d531eeb7b8b94913b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.0_fd17f8398a5419fc23ee2352edce7f96c6b251d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_1c3fe351950d633cab5f9b9553763a8bca79736b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_216f4e47e469237dc7529955b0d5b0cc6975d316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_6146480f1bedc348e2b34427efdd119f43516381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_1e3a9318b19a6b0e6d9c28cfd680d5d84c1588a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_9e3bc61e6e17f07c04b1e8e170f38a06ef582b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EDOWINDOWSPC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_34a8b1aa304407dcaa1195dd8e0fa6740ad52802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="D:\Sheetal Gourab\WeddingApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.4.0_dd3f42822f911fff265391504e8fc055de1343b5.jar" />
+    </item>
+
+</items>

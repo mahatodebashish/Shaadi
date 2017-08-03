@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/contacts"
+        android:orderInCategory="1"
+        android:icon="@drawable/icon_contact"
+        app:showAsAction="always"
+        android:title="Contacts"
+        android:checkable="false"
+        android:visible="true"
+        android:enabled="true"
+         />
+    <item
+        android:id="@+id/locationmap"
+        android:orderInCategory="2"
+        android:icon="@drawable/icon_map"
+        android:title="How to Reach"
+        android:checkable="false"
+        app:showAsAction="always"
+        android:visible="true"
+        android:enabled="true" />
+    <item
+        android:id="@+id/gallery"
+        android:orderInCategory="3"
+        android:icon="@drawable/icon_gallery"
+        android:title="Gallery"
+        android:checkable="false"
+        app:showAsAction="never"
+        android:visible="true"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/countdown"
+        android:orderInCategory="3"
+        android:title="CountDown"
+        android:checkable="false"
+        app:showAsAction="never"
+        android:visible="true"
+        android:enabled="true" />
+
+</menu>

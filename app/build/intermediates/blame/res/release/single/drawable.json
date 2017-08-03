@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_5.jpeg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_5.jpeg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_2.jpeg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_2.jpeg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\delete.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\alertu.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\alertu.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_7.jpg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_7.jpg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_6.jpeg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_6.jpeg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_contact.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\icon_contact.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\weds.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\weds.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_8.jpg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_8.jpg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icontransparent.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\icontransparent.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\call.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pinkbg.jpg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pinkbg.jpg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_map.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\icon_map.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shaadi.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\shaadi.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wedbg.jpg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\wedbg.jpg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_3.jpeg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_3.jpeg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gallery.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dustbin.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\dustbin.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_1.jpeg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_1.jpeg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_gallery.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\icon_gallery.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\appicon.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_9.jpg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_9.jpg"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\map.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\generatedtext.png",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\generatedtext.png"
+    },
+    {
+        "merged": "D:\\Sheetal Gourab\\WeddingApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_4.jpeg",
+        "source": "D:\\Sheetal Gourab\\WeddingApp\\app\\src\\main\\res\\drawable\\pic_4.jpeg"
+    }
+]
